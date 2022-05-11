@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/070517fb-e970-4566-ad36-14deb4d874ce" width="600" height="300"/>
+  <img src="https://static.wikia.nocookie.net/070517fb-e970-4566-ad36-14deb4d874ce" width="400" height="200"/>
 </div>
 
 ### Hola a todos, en este repositorio os voy a hablar un poco sobre [mi persona](https://twitter.com/adriandobby7)
