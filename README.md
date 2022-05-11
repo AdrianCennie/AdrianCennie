@@ -23,6 +23,9 @@
  * En este [enlace](https://youtu.be/kppBuSiG3V4) teneis un video bastante cringe con mis mejores jugadas.
  * Me gusta ver [tik tok](https://www.tiktok.com/es/). 
 
+### Estas son mis estadíscticas en Github :fire:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianCennie&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **AdrianCennie/AdrianCennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
