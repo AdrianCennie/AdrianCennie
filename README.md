@@ -1,4 +1,27 @@
-### Hi there 👋 UWU
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/070517fb-e970-4566-ad36-14deb4d874ce" width="600" height="300"/>
+</div>
+
+### Hola a todos, en este repositorio os voy a hablar un poco sobre [mi persona](https://twitter.com/adriandobby7)
+
+1. Tengo 26 años.
+2. Soy de [🚧dolid (España)](https://www.google.es/maps/place/Valladolid+Espa%C3%B1a/@41.652255,-4.7267208,17z/data=!3m1!4b1!4m5!3m4!1s0xd47135857ef5b3b:0x9cd457ada378a6e2!8m2!3d41.652251!4d-4.7245321).
+3. Me identifico como un 🚹.
+4. Soy Técnico en Sistemas Microinformáticos y redes.
+5. Estudio DAM en el colegio Sanviator de [🚧dolid (España)](https://www.google.es/maps/place/Colegio+San+Viator/@41.6305077,-4.7230772,17z/data=!3m1!4b1!4m5!3m4!1s0xd4712d15d4c49c9:0xd83b7c800fd36783!8m2!3d41.6304524!4d-4.7216206)
+
+### Lenguajes mas usados
+* ![Java](https://user-images.githubusercontent.com/100761066/167805888-42ca6522-5b3b-4572-865b-26269c301d19.png)
+* HTML
+* XML
+
+
+
+### Hobbies
+* Hacer deporte.
+* Jugar videojuegos como [League of Legends](https://www.leagueoflegends.com/es-es/), [FIFA](https://www.ea.com/es-es/games/fifa/fifa-22), entre otros.
+ * En este [enlace](https://youtu.be/kppBuSiG3V4) teneis un video bastante cringe con mis mejores jugadas.
+ * Me gusta ver [tik tok](https://www.tiktok.com/es/). 
 
 <!--
 **AdrianCennie/AdrianCennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
