@@ -6,7 +6,7 @@
 
 1. Tengo 26 años.
 2. Soy de [🚧dolid (España)](https://www.google.es/maps/place/Valladolid+Espa%C3%B1a/@41.652255,-4.7267208,17z/data=!3m1!4b1!4m5!3m4!1s0xd47135857ef5b3b:0x9cd457ada378a6e2!8m2!3d41.652251!4d-4.7245321).
-3. Me identifico como un 🚹.
+3. Me identifico como un [🚹](https://assets.puzzlefactory.pl/puzzle/236/886/original.webp).
 4. Soy Técnico en Sistemas Microinformáticos y redes.
 5. Estudio DAM en el colegio Sanviator de [🚧dolid (España)](https://www.google.es/maps/place/Colegio+San+Viator/@41.6305077,-4.7230772,17z/data=!3m1!4b1!4m5!3m4!1s0xd4712d15d4c49c9:0xd83b7c800fd36783!8m2!3d41.6304524!4d-4.7216206)
 
@@ -26,6 +26,8 @@
 ### Estas son mis estadíscticas en Github :fire:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianCennie&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **AdrianCennie/AdrianCennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
