@@ -15,6 +15,17 @@
 * HTML
 * XML
 
+### Mi [lista de la compra](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baobablibros.es%2Fjuego%2Flista-de-la-compra-orchard_3293&psig=AOvVaw01PPDwstYuVB9zU4kW1XaU&ust=1652864217965000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDKu5iV5vcCFQAAAAAdAAAAABAD) :arrow_down:
+1. pañuelos
+    * servilletas
+2. bebidas
+    * cocacola
+    * nestea
+    * agua
+3. comida
+    * choriso
+    * yogures
+    * bacon
 
 
 ### Hobbies
@@ -23,7 +34,7 @@
  * En este [enlace](https://youtu.be/kppBuSiG3V4) teneis un video bastante cringe con mis mejores jugadas.
  * Me gusta ver [tik tok](https://www.tiktok.com/es/). 
 
-### Estas son mis estadíscticas en Github :fire:
+### Estas son mis `estadíscticas en Github` :fire:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianCennie&theme=dark&background=000000)](https://git.io/streak-stats)
 
